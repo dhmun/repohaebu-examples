@@ -1,0 +1,5 @@
+[
+ {"name": "A store (travel)", "url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html", "schema": "toscrape"},
+ {"name": "B store (poetry)", "url": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html", "schema": "toscrape"},
+ {"name": "C store (science)", "url": "https://books.toscrape.com/catalogue/category/books/science_22/index.html", "schema": "toscrape"}
+]
